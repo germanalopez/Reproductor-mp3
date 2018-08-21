@@ -1,0 +1,17 @@
+C:\Users\ger\Desktop\Reproductor\ReproductorMp3\ReproductorMp3\bin\Debug\ReproductorMp3.exe.config
+C:\Users\ger\Desktop\Reproductor\ReproductorMp3\ReproductorMp3\bin\Debug\ReproductorMp3.exe
+C:\Users\ger\Desktop\Reproductor\ReproductorMp3\ReproductorMp3\bin\Debug\ReproductorMp3.pdb
+C:\Users\ger\Desktop\Reproductor\ReproductorMp3\ReproductorMp3\bin\Debug\Interop.WMPLib.dll
+C:\Users\ger\Desktop\Reproductor\ReproductorMp3\ReproductorMp3\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\ger\Desktop\Reproductor\ReproductorMp3\ReproductorMp3\obj\Debug\ReproductorMp3.csprojAssemblyReference.cache
+C:\Users\ger\Desktop\Reproductor\ReproductorMp3\ReproductorMp3\obj\Debug\Interop.WMPLib.dll
+C:\Users\ger\Desktop\Reproductor\ReproductorMp3\ReproductorMp3\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\ger\Desktop\Reproductor\ReproductorMp3\ReproductorMp3\obj\Debug\ReproductorMp3.csproj.ResolveComReference.cache
+C:\Users\ger\Desktop\Reproductor\ReproductorMp3\ReproductorMp3\obj\Debug\ReproductorMp3.PantallaPrincipal.resources
+C:\Users\ger\Desktop\Reproductor\ReproductorMp3\ReproductorMp3\obj\Debug\ReproductorMp3.Properties.Resources.resources
+C:\Users\ger\Desktop\Reproductor\ReproductorMp3\ReproductorMp3\obj\Debug\ReproductorMp3.csproj.GenerateResource.cache
+C:\Users\ger\Desktop\Reproductor\ReproductorMp3\ReproductorMp3\obj\Debug\ReproductorMp3.csproj.CoreCompileInputs.cache
+C:\Users\ger\Desktop\Reproductor\ReproductorMp3\ReproductorMp3\obj\Debug\ReproductorMp3.exe
+C:\Users\ger\Desktop\Reproductor\ReproductorMp3\ReproductorMp3\obj\Debug\ReproductorMp3.pdb
+C:\Users\ger\Desktop\Reproductor\ReproductorMp3\ReproductorMp3\bin\Debug\Database.mdf
+C:\Users\ger\Desktop\Reproductor\ReproductorMp3\ReproductorMp3\bin\Debug\Database_log.ldf
